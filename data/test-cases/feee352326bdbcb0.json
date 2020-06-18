@@ -1,0 +1,204 @@
+{
+  "uid" : "feee352326bdbcb0",
+  "name" : "ConsentMessages",
+  "fullName" : "MomConnect.ClinicLine.PrebirthSMS.ConsentMessages",
+  "historyId" : "dff837c3939351c5c67a03d37ffdeab",
+  "time" : {
+    "start" : 1592485283147,
+    "stop" : 1592485283748,
+    "duration" : 601
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592485280431,
+      "stop" : 1592485280432,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecRP",
+    "time" : {
+      "start" : 1592485280432,
+      "stop" : 1592485280433,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.ClinicLine.PrebirthSMS"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.ClinicLine.PrebirthSMS"
+  }, {
+    "name" : "testMethod",
+    "value" : "ConsentMessages"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuiteDemo"
+  }, {
+    "name" : "suite",
+    "value" : "Test2"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.ClinicLine.PrebirthSMS"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "54139@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9cd6d0e6e8046e52",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1592484635053,
+        "stop" : 1592484635658,
+        "duration" : 605
+      }
+    }, {
+      "uid" : "b874e38a2e7a0306",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1592480075163,
+        "stop" : 1592480075806,
+        "duration" : 643
+      }
+    }, {
+      "uid" : "9a90b01c33bda4b0",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1592473847961,
+        "stop" : 1592473848591,
+        "duration" : 630
+      }
+    }, {
+      "uid" : "f2408690021cffb0",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1592472120610,
+        "stop" : 1592472121227,
+        "duration" : 617
+      }
+    }, {
+      "uid" : "5b7bd3ed6d39c730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592466318474,
+        "stop" : 1592466319142,
+        "duration" : 668
+      }
+    }, {
+      "uid" : "f0fdffdb88d8a1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592466226322,
+        "stop" : 1592466226991,
+        "duration" : 669
+      }
+    }, {
+      "uid" : "ff07e892de0677d9",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1592465388227,
+        "stop" : 1592465388887,
+        "duration" : 660
+      }
+    }, {
+      "uid" : "f3e5c3cd9b4d9a18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592401452437,
+        "stop" : 1592401453038,
+        "duration" : 601
+      }
+    }, {
+      "uid" : "5d987db0e13401ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592390548783,
+        "stop" : 1592390549410,
+        "duration" : 627
+      }
+    }, {
+      "uid" : "474e8faabb44075a",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1592390501423,
+        "stop" : 1592390502126,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "509354ccf981f117",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592390375949,
+        "stop" : 1592390376672,
+        "duration" : 723
+      }
+    }, {
+      "uid" : "b92913ce1b32f645",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592389834770,
+        "stop" : 1592389835385,
+        "duration" : 615
+      }
+    }, {
+      "uid" : "4a989915edf45350",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592388864022,
+        "stop" : 1592388864788,
+        "duration" : 766
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "feee352326bdbcb0.json",
+  "parameterValues" : [ ]
+}
