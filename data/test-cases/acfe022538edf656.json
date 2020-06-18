@@ -1,0 +1,182 @@
+{
+  "uid" : "acfe022538edf656",
+  "name" : "Dial",
+  "fullName" : "MomConnect.ClinicLine.PrebirthWhatsapp.Dial",
+  "historyId" : "c940bdb4f059abe3f9d85bac29fa3fdc",
+  "time" : {
+    "start" : 1592480051917,
+    "stop" : 1592480054768,
+    "duration" : 2851
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592480050651,
+      "stop" : 1592480051799,
+      "duration" : 1148
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecRP",
+    "time" : {
+      "start" : 1592480051799,
+      "stop" : 1592480051849,
+      "duration" : 50
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecSlack",
+    "time" : {
+      "start" : 1592480051850,
+      "stop" : 1592480051855,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecTR",
+    "time" : {
+      "start" : 1592480051855,
+      "stop" : 1592480051865,
+      "duration" : 10
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.ClinicLine.PrebirthWhatsapp"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.ClinicLine.PrebirthWhatsapp"
+  }, {
+    "name" : "testMethod",
+    "value" : "Dial"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuiteDemo"
+  }, {
+    "name" : "suite",
+    "value" : "Test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.ClinicLine.PrebirthWhatsapp"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "52160@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b410c3f66c9f17e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592473826510,
+        "stop" : 1592473828837,
+        "duration" : 2327
+      }
+    }, {
+      "uid" : "67900bf2b603fafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592472098447,
+        "stop" : 1592472100864,
+        "duration" : 2417
+      }
+    }, {
+      "uid" : "b289d63b964527ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592401429371,
+        "stop" : 1592401431712,
+        "duration" : 2341
+      }
+    }, {
+      "uid" : "b5e1008948018dff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592391255331,
+        "stop" : 1592391257635,
+        "duration" : 2304
+      }
+    }, {
+      "uid" : "415177df421988da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592390163379,
+        "stop" : 1592390166766,
+        "duration" : 3387
+      }
+    }, {
+      "uid" : "aba1b40c2839521c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592389809506,
+        "stop" : 1592389813145,
+        "duration" : 3639
+      }
+    }, {
+      "uid" : "ba16ceaac4d40b20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592388840227,
+        "stop" : 1592388842543,
+        "duration" : 2316
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acfe022538edf656.json",
+  "parameterValues" : [ ]
+}

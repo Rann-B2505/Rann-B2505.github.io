@@ -1,0 +1,142 @@
+{
+  "uid" : "9f3953fe7521e4d0",
+  "name" : "Language",
+  "fullName" : "MomConnect.ClinicLine.PostbirthWhatsapp.Language",
+  "historyId" : "86b5fa3cc21589778bf5fc5d2ee2f3f2",
+  "time" : {
+    "start" : 1592480089745,
+    "stop" : 1592480095473,
+    "duration" : 5728
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592480080939,
+      "stop" : 1592480080940,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecRP",
+    "time" : {
+      "start" : 1592480080940,
+      "stop" : 1592480080962,
+      "duration" : 22
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.ClinicLine.PostbirthWhatsapp"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.ClinicLine.PostbirthWhatsapp"
+  }, {
+    "name" : "testMethod",
+    "value" : "Language"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuiteDemo"
+  }, {
+    "name" : "suite",
+    "value" : "Test3"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.ClinicLine.PostbirthWhatsapp"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "52160@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eba429df7acc9730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592473862732,
+        "stop" : 1592473868293,
+        "duration" : 5561
+      }
+    }, {
+      "uid" : "80a84696dafd4845",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592472134420,
+        "stop" : 1592472139937,
+        "duration" : 5517
+      }
+    }, {
+      "uid" : "64791970d5be916",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592401476918,
+        "stop" : 1592401482504,
+        "duration" : 5586
+      }
+    }, {
+      "uid" : "8964fdf44683fdc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592391340703,
+        "stop" : 1592391346525,
+        "duration" : 5822
+      }
+    }, {
+      "uid" : "7555777a4894613c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592389864258,
+        "stop" : 1592389870001,
+        "duration" : 5743
+      }
+    }, {
+      "uid" : "8490a1e6f2397796",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592388890192,
+        "stop" : 1592388896705,
+        "duration" : 6513
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f3953fe7521e4d0.json",
+  "parameterValues" : [ ]
+}
