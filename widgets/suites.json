@@ -1,5 +1,5 @@
 {
-  "total" : 2,
+  "total" : 1,
   "items" : [ {
     "uid" : "cd3c56f5f16d11d104302f45a6336d86",
     "name" : "TestSuiteDemo",
@@ -7,20 +7,9 @@
       "failed" : 13,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 45,
+      "passed" : 44,
       "unknown" : 0,
-      "total" : 58
-    }
-  }, {
-    "uid" : "8399274b4bb69ec8699907dd6ef7de4e",
-    "name" : "Default Suite",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 6,
-      "unknown" : 0,
-      "total" : 6
+      "total" : 57
     }
   } ]
 }
