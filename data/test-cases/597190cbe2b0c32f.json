@@ -1,0 +1,102 @@
+{
+  "uid" : "597190cbe2b0c32f",
+  "name" : "Messaging_Consent_YES",
+  "fullName" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES.Messaging_Consent_YES",
+  "historyId" : "e92eb5bea71cb311580599e3c8d232b0",
+  "time" : {
+    "start" : 1592391617219,
+    "stop" : 1592391617936,
+    "duration" : 717
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592391610690,
+      "stop" : 1592391611961,
+      "duration" : 1271
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createResponseSpec",
+    "time" : {
+      "start" : 1592391611962,
+      "stop" : 1592391612039,
+      "duration" : 77
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES"
+  }, {
+    "name" : "testMethod",
+    "value" : "Messaging_Consent_YES"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "MomConnect"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "45099@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a83aa0c10e6527",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592391003688,
+        "stop" : 1592391004397,
+        "duration" : 709
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "597190cbe2b0c32f.json",
+  "parameterValues" : [ ]
+}
