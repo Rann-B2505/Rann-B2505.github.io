@@ -1,0 +1,102 @@
+{
+  "uid" : "1d5c92c04e1575f3",
+  "name" : "SelectLanguage",
+  "fullName" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES.SelectLanguage",
+  "historyId" : "8cca92a8ca8c0facc6c34b04a734014b",
+  "time" : {
+    "start" : 1592391614902,
+    "stop" : 1592391615715,
+    "duration" : 813
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592391610690,
+      "stop" : 1592391611961,
+      "duration" : 1271
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createResponseSpec",
+    "time" : {
+      "start" : 1592391611962,
+      "stop" : 1592391612039,
+      "duration" : 77
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES"
+  }, {
+    "name" : "testMethod",
+    "value" : "SelectLanguage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "MomConnect"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.PublicLine.PublicLine_PregYES_InfoConsentYES_MessageConsentYES_ContactConsentYES"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "45099@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "91bdee7dee07848a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592391001143,
+        "stop" : 1592391002225,
+        "duration" : 1082
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d5c92c04e1575f3.json",
+  "parameterValues" : [ ]
+}

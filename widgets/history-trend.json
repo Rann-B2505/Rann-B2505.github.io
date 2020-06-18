@@ -1,9 +1,9 @@
 [ {
   "data" : {
-    "failed" : 14,
+    "failed" : 13,
     "broken" : 0,
     "skipped" : 0,
-    "passed" : 50,
+    "passed" : 51,
     "unknown" : 0,
     "total" : 64
   }
