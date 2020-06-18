@@ -7,156 +7,156 @@
       "name" : "expected [true] but found [false]",
       "children" : [ {
         "name" : "Confirm MSISDN",
-        "uid" : "9fea7f63034fed9a",
+        "uid" : "a7022ac70e3b1f2b",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488180894,
-          "stop" : 1592488181613,
-          "duration" : 719
+          "start" : 1592488676301,
+          "stop" : 1592488677002,
+          "duration" : 701
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "IsMotherAtClinic",
-        "uid" : "68b9cc6c04fe587f",
+        "uid" : "21b0a86c23bd11cd",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488181632,
-          "stop" : 1592488182740,
-          "duration" : 1108
+          "start" : 1592488677020,
+          "stop" : 1592488678108,
+          "duration" : 1088
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "ConsentToMessaging",
-        "uid" : "2ced045a8303db52",
+        "uid" : "2bca0d369179d2d6",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488182743,
-          "stop" : 1592488183385,
-          "duration" : 642
+          "start" : 1592488678111,
+          "stop" : 1592488678865,
+          "duration" : 754
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "ConsentToResearch",
-        "uid" : "566aff24b8a6fff4",
+        "uid" : "258f4da32f4c12e0",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488183387,
-          "stop" : 1592488184053,
-          "duration" : 666
+          "start" : 1592488678868,
+          "stop" : 1592488679888,
+          "duration" : 1020
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "EnterClinicCode",
-        "uid" : "1bc82b3c86e3ea4e",
+        "uid" : "dc6f4cc11a30951b",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488184055,
-          "stop" : 1592488184663,
-          "duration" : 608
+          "start" : 1592488679894,
+          "stop" : 1592488680605,
+          "duration" : 711
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "SelectMessageType",
-        "uid" : "e0e4b07620f62f8c",
+        "uid" : "8d5bc91e042b25b5",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488184665,
-          "stop" : 1592488185243,
-          "duration" : 578
+          "start" : 1592488680608,
+          "stop" : 1592488681258,
+          "duration" : 650
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "EnterDOB_Year",
-        "uid" : "e18eca4ceea78e28",
+        "uid" : "e5eed6b5836e1c4c",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488185245,
-          "stop" : 1592488185865,
-          "duration" : 620
+          "start" : 1592488681260,
+          "stop" : 1592488681844,
+          "duration" : 584
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "EnterDOB_Month",
-        "uid" : "9d0566fa980bd267",
+        "uid" : "c5551dfa8068501f",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488185868,
-          "stop" : 1592488186519,
-          "duration" : 651
+          "start" : 1592488681846,
+          "stop" : 1592488682451,
+          "duration" : 605
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "EnterDOB_Day",
-        "uid" : "c0e448bab0293797",
+        "uid" : "e9763e7d69f93e7b",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488186521,
-          "stop" : 1592488187139,
-          "duration" : 618
+          "start" : 1592488682454,
+          "stop" : 1592488683113,
+          "duration" : 659
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "SelectIdentificationType",
-        "uid" : "3468196e5d1c9846",
+        "uid" : "30efc0d955ebb527",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488187142,
-          "stop" : 1592488187753,
-          "duration" : 611
+          "start" : 1592488683116,
+          "stop" : 1592488683732,
+          "duration" : 616
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "EnterSAID",
-        "uid" : "7d6d45203e79eb7b",
+        "uid" : "35d81cf2574c8c12",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488187756,
-          "stop" : 1592488188470,
-          "duration" : 714
+          "start" : 1592488683734,
+          "stop" : 1592488684306,
+          "duration" : 572
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "SelectLanguage",
-        "uid" : "41830bb373982c4f",
+        "uid" : "56db4c3dc0274210",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592488188472,
-          "stop" : 1592488189084,
-          "duration" : 612
+          "start" : 1592488684315,
+          "stop" : 1592488684906,
+          "duration" : 591
         },
         "flaky" : false,
         "newFailed" : false,
@@ -167,13 +167,13 @@
       "name" : "expected [[TRUE]] but found [[null]]",
       "children" : [ {
         "name" : "ValidateRapidProContact",
-        "uid" : "6ff5181383faf92f",
+        "uid" : "a6fc3d9618520674",
         "parentUid" : "5dea3e7b28d66d9d6fc3413a7299ee43",
         "status" : "failed",
         "time" : {
-          "start" : 1592488189086,
-          "stop" : 1592488189380,
-          "duration" : 294
+          "start" : 1592488684909,
+          "stop" : 1592488685177,
+          "duration" : 268
         },
         "flaky" : false,
         "newFailed" : false,
