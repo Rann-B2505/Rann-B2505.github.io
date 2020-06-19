@@ -1,0 +1,102 @@
+{
+  "uid" : "d02f634d5a109379",
+  "name" : "ConsentResearch",
+  "fullName" : "MomConnect.ClinicLine.PostbirthWhatsapp.ConsentResearch",
+  "historyId" : "e63fbdbd9fce23dcb0f2b8766872365",
+  "time" : {
+    "start" : 1592560957320,
+    "stop" : 1592560957905,
+    "duration" : 585
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592560954231,
+      "stop" : 1592560954231,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecRP",
+    "time" : {
+      "start" : 1592560954231,
+      "stop" : 1592560954253,
+      "duration" : 22
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.ClinicLine.PostbirthWhatsapp"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.ClinicLine.PostbirthWhatsapp"
+  }, {
+    "name" : "testMethod",
+    "value" : "ConsentResearch"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuiteDemo"
+  }, {
+    "name" : "suite",
+    "value" : "Test3"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.ClinicLine.PostbirthWhatsapp"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "80805@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "add4e7c172476424",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592488661765,
+        "stop" : 1592488662335,
+        "duration" : 570
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d02f634d5a109379.json",
+  "parameterValues" : [ ]
+}
