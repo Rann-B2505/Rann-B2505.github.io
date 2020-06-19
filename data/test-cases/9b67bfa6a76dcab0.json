@@ -1,0 +1,94 @@
+{
+  "uid" : "9b67bfa6a76dcab0",
+  "name" : "DeleteRapidProContact",
+  "fullName" : "MomConnect.ClinicLine.PostbirthSMS.deleteRapidProContact",
+  "historyId" : "1e7092d079a5a006c2b748dfd3f7a598",
+  "time" : {
+    "start" : 1592563275578,
+    "stop" : 1592563277814,
+    "duration" : 2236
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592563266628,
+      "stop" : 1592563266628,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecRP",
+    "time" : {
+      "start" : 1592563266629,
+      "stop" : 1592563266629,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.ClinicLine.PostbirthSMS"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.ClinicLine.PostbirthSMS"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteRapidProContact"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuiteDemo"
+  }, {
+    "name" : "suite",
+    "value" : "Test4"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.ClinicLine.PostbirthSMS"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "92920@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b67bfa6a76dcab0.json",
+  "parameterValues" : [ ]
+}

@@ -1,290 +1,570 @@
 [ {
-  "uid" : "e3be82bb9f099b28",
-  "name" : "SAID",
+  "uid" : "d9685943ed37fd30",
+  "name" : "EnterDOB_Month",
   "time" : {
-    "start" : 1592563018114,
-    "stop" : 1592563018757,
-    "duration" : 643
+    "start" : 1592563272308,
+    "stop" : 1592563272925,
+    "duration" : 617
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "d88ed73ebc06eb8c",
+  "uid" : "5851ab4f9158745d",
+  "name" : "ConsentMessages",
+  "time" : {
+    "start" : 1592563243620,
+    "stop" : 1592563244212,
+    "duration" : 592
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe1fae63b260ae00",
   "name" : "EDDmonth",
   "time" : {
-    "start" : 1592563016151,
-    "stop" : 1592563016779,
-    "duration" : 628
+    "start" : 1592563245986,
+    "stop" : 1592563246553,
+    "duration" : 567
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "1fbe30b9d20f9a71",
-  "name" : "ClinicCode",
+  "uid" : "9cc97a21e8d0f3d2",
+  "name" : "DialClinicLine",
   "time" : {
-    "start" : 1592563014542,
-    "stop" : 1592563015411,
-    "duration" : 869
+    "start" : 1592563266630,
+    "stop" : 1592563267233,
+    "duration" : 603
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3e2ad2305b745998",
-  "name" : "MessageType",
-  "time" : {
-    "start" : 1592563015413,
-    "stop" : 1592563016149,
-    "duration" : 736
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bbc8f735634f5b43",
-  "name" : "IsMotherAtClinic",
-  "time" : {
-    "start" : 1592563012068,
-    "stop" : 1592563013221,
-    "duration" : 1153
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1cfce96c7a42963",
-  "name" : "Language",
-  "time" : {
-    "start" : 1592563036694,
-    "stop" : 1592563042201,
-    "duration" : 5507
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "626ed3ed51a45225",
-  "name" : "IdentificationType",
-  "time" : {
-    "start" : 1592563017489,
-    "stop" : 1592563018109,
-    "duration" : 620
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2ef95263ff4972d0",
-  "name" : "deleteRapidProContact",
-  "time" : {
-    "start" : 1592563025811,
-    "stop" : 1592563028048,
-    "duration" : 2237
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8d5817c1fe2f8414",
-  "name" : "IdentificationType",
-  "time" : {
-    "start" : 1592563035447,
-    "stop" : 1592563036070,
-    "duration" : 623
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ba32191bd933cb7",
-  "name" : "MessageType",
-  "time" : {
-    "start" : 1592563032961,
-    "stop" : 1592563033611,
-    "duration" : 650
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "22bc20ec8f492128",
-  "name" : "ConfirmMsisdn",
-  "time" : {
-    "start" : 1592563028953,
-    "stop" : 1592563029674,
-    "duration" : 721
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1ab8e6f29782fc2c",
+  "uid" : "2d20225e76d9230d",
   "name" : "EDDday",
   "time" : {
-    "start" : 1592563016782,
-    "stop" : 1592563017484,
-    "duration" : 702
+    "start" : 1592563229425,
+    "stop" : 1592563230050,
+    "duration" : 625
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a156ef1d4998fcd1",
-  "name" : "ConsentResearch",
-  "time" : {
-    "start" : 1592563031439,
-    "stop" : 1592563032067,
-    "duration" : 628
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fbbcc03ee7520c96",
-  "name" : "ConfirmMsisdn",
-  "time" : {
-    "start" : 1592563011319,
-    "stop" : 1592563012058,
-    "duration" : 739
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "341181af48d641eb",
-  "name" : "Dial",
-  "time" : {
-    "start" : 1592563008983,
-    "stop" : 1592563011227,
-    "duration" : 2244
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4a18dd5271ab4c5a",
-  "name" : "SAID",
-  "time" : {
-    "start" : 1592563036072,
-    "stop" : 1592563036692,
-    "duration" : 620
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b2634fa6f3bc42ba",
+  "uid" : "96286b5ae5f769a4",
   "name" : "Language",
   "time" : {
-    "start" : 1592563018759,
-    "stop" : 1592563024508,
-    "duration" : 5749
+    "start" : 1592563257408,
+    "stop" : 1592563263064,
+    "duration" : 5656
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a1fcdcfbe73ed2c1",
-  "name" : "ClinicCode",
-  "time" : {
-    "start" : 1592563032069,
-    "stop" : 1592563032958,
-    "duration" : 889
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "378600bf5e38a9de",
-  "name" : "ConsentResearch",
-  "time" : {
-    "start" : 1592563013878,
-    "stop" : 1592563014538,
-    "duration" : 660
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1f9c21d8168e61b4",
-  "name" : "validateRapidProContact",
-  "time" : {
-    "start" : 1592563024512,
-    "stop" : 1592563025807,
-    "duration" : 1295
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d998ee65c5d88ec6",
-  "name" : "ConsentMessages",
-  "time" : {
-    "start" : 1592563030832,
-    "stop" : 1592563031437,
-    "duration" : 605
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d3caebb8b2178b59",
-  "name" : "DOByear",
-  "time" : {
-    "start" : 1592563033613,
-    "stop" : 1592563034241,
-    "duration" : 628
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8900950c778f9b45",
-  "name" : "ConsentMessages",
-  "time" : {
-    "start" : 1592563013223,
-    "stop" : 1592563013875,
-    "duration" : 652
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3364cef953fc0730",
+  "uid" : "3683fa24663ccbb2",
   "name" : "IsMotherAtClinic",
   "time" : {
-    "start" : 1592563029713,
-    "stop" : 1592563030830,
-    "duration" : 1117
+    "start" : 1592563250632,
+    "stop" : 1592563251744,
+    "duration" : 1112
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c6015eceead6d6b2",
-  "name" : "validateRapidProContact",
+  "uid" : "eacffbc94b96ff32",
+  "name" : "Language",
   "time" : {
-    "start" : 1592563042204,
-    "stop" : 1592563042466,
-    "duration" : 262
+    "start" : 1592563248362,
+    "stop" : 1592563248980,
+    "duration" : 618
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "8d844611440f83b0",
-  "name" : "deleteRapidProContact",
+  "uid" : "bd539f74b514f865",
+  "name" : "ConsentResearch",
   "time" : {
-    "start" : 1592563042469,
-    "stop" : 1592563044700,
-    "duration" : 2231
+    "start" : 1592563244214,
+    "stop" : 1592563244800,
+    "duration" : 586
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "89275cf7e8d5ab1b",
-  "name" : "DOBday",
+  "uid" : "4c91565783164de8",
+  "name" : "EnterDOB_Day",
   "time" : {
-    "start" : 1592563034845,
-    "stop" : 1592563035445,
-    "duration" : 600
+    "start" : 1592563272928,
+    "stop" : 1592563273500,
+    "duration" : 572
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "65416528b4bf4478",
-  "name" : "DOBmonth",
+  "uid" : "4146b873cb35ed1a",
+  "name" : "ConsentToResearch",
   "time" : {
-    "start" : 1592563034243,
-    "stop" : 1592563034840,
-    "duration" : 597
+    "start" : 1592563269740,
+    "stop" : 1592563270346,
+    "duration" : 606
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c45cae07a39c5e1",
+  "name" : "SelectLanguage",
+  "time" : {
+    "start" : 1592563274707,
+    "stop" : 1592563275285,
+    "duration" : 578
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "318cdec8dd3945f2",
+  "name" : "SAID",
+  "time" : {
+    "start" : 1592563256799,
+    "stop" : 1592563257406,
+    "duration" : 607
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a5f7d283da530ed",
+  "uid" : "4435538061490d02",
+  "name" : "IdentificationType",
+  "time" : {
+    "start" : 1592563247151,
+    "stop" : 1592563247740,
+    "duration" : 589
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a1985f0e6ab6b40",
+  "name" : "EDDmonth",
+  "time" : {
+    "start" : 1592563228795,
+    "stop" : 1592563229419,
+    "duration" : 624
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b53e69b97cf4a4b5",
+  "name" : "ConsentMessages",
+  "time" : {
+    "start" : 1592563251745,
+    "stop" : 1592563252321,
+    "duration" : 576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b5261d2ce4b186f",
+  "name" : "SAID",
+  "time" : {
+    "start" : 1592563230669,
+    "stop" : 1592563231294,
+    "duration" : 625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d0ae92e79d374a6",
   "name" : "Dial",
   "time" : {
-    "start" : 1592563028122,
-    "stop" : 1592563028951,
-    "duration" : 829
+    "start" : 1592563240878,
+    "stop" : 1592563241798,
+    "duration" : 920
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7386da3754f4f93b",
+  "name" : "IsMotherAtClinic",
+  "time" : {
+    "start" : 1592563224926,
+    "stop" : 1592563226027,
+    "duration" : 1101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f96c38df24be0531",
+  "name" : "ConfirmMsisdn",
+  "time" : {
+    "start" : 1592563224151,
+    "stop" : 1592563224917,
+    "duration" : 766
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af9a8d45f8db6b9c",
+  "name" : "IdentificationType",
+  "time" : {
+    "start" : 1592563230053,
+    "stop" : 1592563230667,
+    "duration" : 614
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1755fd6cf4b1886a",
+  "name" : "EnterSAID",
+  "time" : {
+    "start" : 1592563274106,
+    "stop" : 1592563274706,
+    "duration" : 600
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5d051224ec1a630",
+  "name" : "DOBmonth",
+  "time" : {
+    "start" : 1592563254997,
+    "stop" : 1592563255616,
+    "duration" : 619
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "488648260319a329",
+  "name" : "ConsentResearch",
+  "time" : {
+    "start" : 1592563252324,
+    "stop" : 1592563252903,
+    "duration" : 579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd91aa8be0ee938b",
+  "name" : "DOBday",
+  "time" : {
+    "start" : 1592563255618,
+    "stop" : 1592563256205,
+    "duration" : 587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "908debf44a0ca25b",
+  "name" : "ConfirmMsisdn",
+  "time" : {
+    "start" : 1592563241800,
+    "stop" : 1592563242508,
+    "duration" : 708
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "43472d00fd5ce63a",
+  "name" : "Dial",
+  "time" : {
+    "start" : 1592563220025,
+    "stop" : 1592563224050,
+    "duration" : 4025
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1056fa3f57d704c",
+  "name" : "ValidateRapidProContact",
+  "time" : {
+    "start" : 1592563275287,
+    "stop" : 1592563275576,
+    "duration" : 289
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "59be316f02cb796",
+  "name" : "deleteRapidProContact",
+  "time" : {
+    "start" : 1592563263390,
+    "stop" : 1592563266622,
+    "duration" : 3232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48e8bee910dad681",
+  "name" : "MessageType",
+  "time" : {
+    "start" : 1592563228091,
+    "stop" : 1592563228792,
+    "duration" : 701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83a146b5d2fce2ab",
+  "name" : "SelectMessageType",
+  "time" : {
+    "start" : 1592563270993,
+    "stop" : 1592563271716,
+    "duration" : 723
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff1fe6d5b0978cc1",
+  "name" : "SelectIdentificationType",
+  "time" : {
+    "start" : 1592563273502,
+    "stop" : 1592563274103,
+    "duration" : 601
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "76c4975df2bd41b4",
+  "name" : "MessageType",
+  "time" : {
+    "start" : 1592563253722,
+    "stop" : 1592563254392,
+    "duration" : 670
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d410df77ea347b68",
+  "name" : "ClinicCode",
+  "time" : {
+    "start" : 1592563244804,
+    "stop" : 1592563245385,
+    "duration" : 581
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6196daf0c0263c90",
+  "name" : "IsMotherAtClinic",
+  "time" : {
+    "start" : 1592563242571,
+    "stop" : 1592563243618,
+    "duration" : 1047
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "838d2524e71b54d5",
+  "name" : "EnterClinicCode",
+  "time" : {
+    "start" : 1592563270352,
+    "stop" : 1592563270991,
+    "duration" : 639
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "216f626ca0ae18a5",
+  "name" : "ConsentToMessaging",
+  "time" : {
+    "start" : 1592563269100,
+    "stop" : 1592563269738,
+    "duration" : 638
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3672c5e50c6d6c1",
+  "name" : "ClinicCode",
+  "time" : {
+    "start" : 1592563227276,
+    "stop" : 1592563228088,
+    "duration" : 812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cff6c02574fd4fa",
+  "name" : "IsMotherAtClinic",
+  "time" : {
+    "start" : 1592563267964,
+    "stop" : 1592563269097,
+    "duration" : 1133
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "541a2619d25ff957",
+  "name" : "ClinicCode",
+  "time" : {
+    "start" : 1592563252907,
+    "stop" : 1592563253720,
+    "duration" : 813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75f0eef6fd02a902",
+  "name" : "Confirm MSISDN",
+  "time" : {
+    "start" : 1592563267234,
+    "stop" : 1592563267962,
+    "duration" : 728
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4eaab0bd4bdc8826",
+  "name" : "IdentificationType",
+  "time" : {
+    "start" : 1592563256207,
+    "stop" : 1592563256797,
+    "duration" : 590
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9a638b9d2925a5f",
+  "name" : "deleteRapidProContact",
+  "time" : {
+    "start" : 1592563238542,
+    "stop" : 1592563240796,
+    "duration" : 2254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ace2d73b6f7b492",
+  "name" : "ConfirmMsisdn",
+  "time" : {
+    "start" : 1592563249923,
+    "stop" : 1592563250630,
+    "duration" : 707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3360ac95a5f450a2",
+  "name" : "Language",
+  "time" : {
+    "start" : 1592563231297,
+    "stop" : 1592563236907,
+    "duration" : 5610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "caf087f23f72c2da",
+  "name" : "validateRapidProContact",
+  "time" : {
+    "start" : 1592563236912,
+    "stop" : 1592563238534,
+    "duration" : 1622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4dd374dc548d1d5",
+  "name" : "EDDday",
+  "time" : {
+    "start" : 1592563246555,
+    "stop" : 1592563247149,
+    "duration" : 594
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f31c1d856e29cabc",
+  "name" : "Dial",
+  "time" : {
+    "start" : 1592563249331,
+    "stop" : 1592563249921,
+    "duration" : 590
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3fc1f2f17ec2046",
+  "name" : "MessageType",
+  "time" : {
+    "start" : 1592563245387,
+    "stop" : 1592563245984,
+    "duration" : 597
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7aaac256f4e8763b",
+  "name" : "DOByear",
+  "time" : {
+    "start" : 1592563254394,
+    "stop" : 1592563254995,
+    "duration" : 601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a0e6f99c57ee1f6",
+  "name" : "ConsentMessages",
+  "time" : {
+    "start" : 1592563226030,
+    "stop" : 1592563226647,
+    "duration" : 617
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b67bfa6a76dcab0",
+  "name" : "DeleteRapidProContact",
+  "time" : {
+    "start" : 1592563275578,
+    "stop" : 1592563277814,
+    "duration" : 2236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3fe64cba4eb468f",
+  "name" : "SAID",
+  "time" : {
+    "start" : 1592563247744,
+    "stop" : 1592563248360,
+    "duration" : 616
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e422b943804d9aa2",
+  "name" : "validateRapidProContact",
+  "time" : {
+    "start" : 1592563263066,
+    "stop" : 1592563263383,
+    "duration" : 317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a9fd90b632ee9e4",
+  "name" : "ConsentResearch",
+  "time" : {
+    "start" : 1592563226651,
+    "stop" : 1592563227273,
+    "duration" : 622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a3229c1df83deb",
+  "name" : "EnterDOB_Year",
+  "time" : {
+    "start" : 1592563271718,
+    "stop" : 1592563272306,
+    "duration" : 588
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "401cd5f3e072168b",
+  "name" : "validateRapidProContact",
+  "time" : {
+    "start" : 1592563248987,
+    "stop" : 1592563249261,
+    "duration" : 274
   },
   "status" : "passed",
   "severity" : "normal"
