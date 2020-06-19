@@ -6,300 +6,27 @@
     "children" : [ {
       "name" : "expected [true] but found [false]",
       "children" : [ {
-        "name" : "ConfirmMsisdn",
-        "uid" : "908debf44a0ca25b",
+        "name" : "Dial",
+        "uid" : "61843d12bd0b922c",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592563241800,
-          "stop" : 1592563242508,
-          "duration" : 708
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "IsMotherAtClinic",
-        "uid" : "6196daf0c0263c90",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563242571,
-          "stop" : 1592563243618,
-          "duration" : 1047
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "ConsentMessages",
-        "uid" : "5851ab4f9158745d",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563243620,
-          "stop" : 1592563244212,
-          "duration" : 592
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "ConsentResearch",
-        "uid" : "bd539f74b514f865",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563244214,
-          "stop" : 1592563244800,
-          "duration" : 586
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "ClinicCode",
-        "uid" : "d410df77ea347b68",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563244804,
-          "stop" : 1592563245385,
-          "duration" : 581
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "MessageType",
-        "uid" : "a3fc1f2f17ec2046",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563245387,
-          "stop" : 1592563245984,
-          "duration" : 597
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "EDDmonth",
-        "uid" : "fe1fae63b260ae00",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563245986,
-          "stop" : 1592563246553,
-          "duration" : 567
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "EDDday",
-        "uid" : "c4dd374dc548d1d5",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563246555,
-          "stop" : 1592563247149,
-          "duration" : 594
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "IdentificationType",
-        "uid" : "4435538061490d02",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563247151,
-          "stop" : 1592563247740,
-          "duration" : 589
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "SAID",
-        "uid" : "d3fe64cba4eb468f",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563247744,
-          "stop" : 1592563248360,
-          "duration" : 616
+          "start" : 1592564987178,
+          "stop" : 1592564987982,
+          "duration" : 804
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Language",
-        "uid" : "eacffbc94b96ff32",
+        "uid" : "a3453f163a4ab1bf",
         "parentUid" : "067aa11ae245eca950dc984999fefd6d",
         "status" : "failed",
         "time" : {
-          "start" : 1592563248362,
-          "stop" : 1592563248980,
-          "duration" : 618
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Confirm MSISDN",
-        "uid" : "75f0eef6fd02a902",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563267234,
-          "stop" : 1592563267962,
-          "duration" : 728
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "IsMotherAtClinic",
-        "uid" : "5cff6c02574fd4fa",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563267964,
-          "stop" : 1592563269097,
-          "duration" : 1133
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "ConsentToMessaging",
-        "uid" : "216f626ca0ae18a5",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563269100,
-          "stop" : 1592563269738,
-          "duration" : 638
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "ConsentToResearch",
-        "uid" : "4146b873cb35ed1a",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563269740,
-          "stop" : 1592563270346,
-          "duration" : 606
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "EnterClinicCode",
-        "uid" : "838d2524e71b54d5",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563270352,
-          "stop" : 1592563270991,
-          "duration" : 639
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "SelectMessageType",
-        "uid" : "83a146b5d2fce2ab",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563270993,
-          "stop" : 1592563271716,
-          "duration" : 723
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "EnterDOB_Year",
-        "uid" : "2a3229c1df83deb",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563271718,
-          "stop" : 1592563272306,
-          "duration" : 588
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "EnterDOB_Month",
-        "uid" : "d9685943ed37fd30",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563272308,
-          "stop" : 1592563272925,
-          "duration" : 617
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "EnterDOB_Day",
-        "uid" : "4c91565783164de8",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563272928,
-          "stop" : 1592563273500,
-          "duration" : 572
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "SelectIdentificationType",
-        "uid" : "ff1fe6d5b0978cc1",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563273502,
-          "stop" : 1592563274103,
-          "duration" : 601
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "EnterSAID",
-        "uid" : "1755fd6cf4b1886a",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563274106,
-          "stop" : 1592563274706,
-          "duration" : 600
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "SelectLanguage",
-        "uid" : "3c45cae07a39c5e1",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1592563274707,
-          "stop" : 1592563275285,
-          "duration" : 578
+          "start" : 1592564994970,
+          "stop" : 1592564996576,
+          "duration" : 1606
         },
         "flaky" : false,
         "newFailed" : false,
@@ -309,14 +36,14 @@
     }, {
       "name" : "expected [[TRUE]] but found [[null]]",
       "children" : [ {
-        "name" : "ValidateRapidProContact",
-        "uid" : "d1056fa3f57d704c",
+        "name" : "validateRapidProContact",
+        "uid" : "cf2a05d959240112",
         "parentUid" : "5dea3e7b28d66d9d6fc3413a7299ee43",
         "status" : "failed",
         "time" : {
-          "start" : 1592563275287,
-          "stop" : 1592563275576,
-          "duration" : 289
+          "start" : 1592564996578,
+          "stop" : 1592564996836,
+          "duration" : 258
         },
         "flaky" : false,
         "newFailed" : false,

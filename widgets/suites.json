@@ -4,12 +4,12 @@
     "uid" : "cd3c56f5f16d11d104302f45a6336d86",
     "name" : "TestSuiteDemo",
     "statistic" : {
-      "failed" : 24,
+      "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 33,
+      "passed" : 55,
       "unknown" : 0,
-      "total" : 57
+      "total" : 58
     }
   } ]
 }
