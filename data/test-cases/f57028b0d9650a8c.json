@@ -1,0 +1,110 @@
+{
+  "uid" : "f57028b0d9650a8c",
+  "name" : "SendMessage_1",
+  "fullName" : "MomConnect.Survey.mc_survey_other.SendMessage_1",
+  "historyId" : "d623556d4170ebc1c6c65e5e33895f4d",
+  "time" : {
+    "start" : 1592861236939,
+    "stop" : 1592861239111,
+    "duration" : 2172
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "createRequestReceiveSendMsg",
+    "time" : {
+      "start" : 1592861231954,
+      "stop" : 1592861231954,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpec",
+    "time" : {
+      "start" : 1592861231955,
+      "stop" : 1592861231955,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "createRequestSpecStartFlow",
+    "time" : {
+      "start" : 1592861231955,
+      "stop" : 1592861231955,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "MomConnect.Survey.mc_survey_other"
+  }, {
+    "name" : "testClass",
+    "value" : "MomConnect.Survey.mc_survey_other"
+  }, {
+    "name" : "testMethod",
+    "value" : "SendMessage_1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuiteDemo"
+  }, {
+    "name" : "suite",
+    "value" : "MomConnect.Survey.mc_survey_other"
+  }, {
+    "name" : "subSuite",
+    "value" : "MomConnect.Survey.mc_survey_other"
+  }, {
+    "name" : "host",
+    "value" : "Randalls-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "23121@Randalls-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f57028b0d9650a8c.json",
+  "parameterValues" : [ ]
+}

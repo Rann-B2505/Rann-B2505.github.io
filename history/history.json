@@ -1,0 +1,806 @@
+{
+  "d623556d4170ebc1c6c65e5e33895f4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f57028b0d9650a8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861236939,
+        "stop" : 1592861239111,
+        "duration" : 2172
+      }
+    } ]
+  },
+  "72f2b5e0665d8b2448f231bca783ed86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7aeeb98c8ef82d9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861277185,
+        "stop" : 1592861279354,
+        "duration" : 2169
+      }
+    } ]
+  },
+  "e50e7af7849b0b1614bd4397eb1064d2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8b7f36c74e309df",
+      "status" : "failed",
+      "statusDetails" : "expected [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply ���MORE���] but found [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply “MORE”]",
+      "time" : {
+        "start" : 1592861203880,
+        "stop" : 1592861204362,
+        "duration" : 482
+      }
+    } ]
+  },
+  "65797e3219bb02acbca42b4fb3e513a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "80201b458e162b7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861272570,
+        "stop" : 1592861274738,
+        "duration" : 2168
+      }
+    } ]
+  },
+  "d1b775595915a5da2e407c9b387d7aca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bcff1dcdcd95a25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861243967,
+        "stop" : 1592861246340,
+        "duration" : 2373
+      }
+    } ]
+  },
+  "9c2eae4e9eb9da09184d36258274bdd9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a34d88dcfe2a5d80",
+      "status" : "failed",
+      "statusDetails" : "expected [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply ���MORE���] but found [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply “MORE”]",
+      "time" : {
+        "start" : 1592861246342,
+        "stop" : 1592861246771,
+        "duration" : 429
+      }
+    } ]
+  },
+  "dd7f8751ae45b47bef8595746b8dad94" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2fb2356dc479b98e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861274748,
+        "stop" : 1592861277182,
+        "duration" : 2434
+      }
+    } ]
+  },
+  "ca377e5a91d73d1a9acc5f70c1697cfa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0a098d49e4494a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861234202,
+        "stop" : 1592861236555,
+        "duration" : 2353
+      }
+    } ]
+  },
+  "6ec91a15ac505bbf63e1610a07f83fd3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e4bcca28dc0eade",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861251453,
+        "stop" : 1592861253624,
+        "duration" : 2171
+      }
+    } ]
+  },
+  "f2ddaf6fd0b8836274b82dc08d1da77b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2cb5eea88df7a86",
+      "status" : "failed",
+      "statusDetails" : "expected [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply ���MORE���] but found [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply “MORE”]",
+      "time" : {
+        "start" : 1592861236559,
+        "stop" : 1592861236937,
+        "duration" : 378
+      }
+    } ]
+  },
+  "796ebcce2280643bb120b902229c2e96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ce44a8a4c9ee625",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861204400,
+        "stop" : 1592861206666,
+        "duration" : 2266
+      }
+    } ]
+  },
+  "1774f90be0545720d493ef07259d3af5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a64f430ff2fe0b83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861229420,
+        "stop" : 1592861231908,
+        "duration" : 2488
+      }
+    } ]
+  },
+  "b354624e5783b8ad1bd327b8724bc6db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29f22b6568dfeebd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861286408,
+        "stop" : 1592861288579,
+        "duration" : 2171
+      }
+    } ]
+  },
+  "cb87cf254a17ece634fa0d632b0e0737" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af9d28c3d0d2a5cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861295928,
+        "stop" : 1592861298091,
+        "duration" : 2163
+      }
+    } ]
+  },
+  "b8c2b8f09611bad87ea1ec4b5a21cbff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6efe487c01d31ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861291018,
+        "stop" : 1592861293562,
+        "duration" : 2544
+      }
+    } ]
+  },
+  "3c57d146021f332258f0e7894238f684" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b987270ef7a2f5fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861279355,
+        "stop" : 1592861281756,
+        "duration" : 2401
+      }
+    } ]
+  },
+  "db7fff854af44a9a982fd78d5d021f25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "846cade336cdd5c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861239113,
+        "stop" : 1592861241475,
+        "duration" : 2362
+      }
+    } ]
+  },
+  "9187656d4aa5f9e8a1dba98b5854dadd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d243f42c7b6a63a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861241485,
+        "stop" : 1592861243935,
+        "duration" : 2450
+      }
+    } ]
+  },
+  "fc6a4508aab92dd138580f493667fdd2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b8e83c9f3c9e089",
+      "status" : "failed",
+      "statusDetails" : "expected [During April, May and June, was there a child in your home who was sick or needed a vaccination?\n\n1-Yes\n2-No\n3-Don���t want to answer] but found [During April, May and June, was there a child in your home who was sick or needed a vaccination?\n\n1-Yes\n2-No\n3-Don’t want to answer]",
+      "time" : {
+        "start" : 1592861258435,
+        "stop" : 1592861258825,
+        "duration" : 390
+      }
+    } ]
+  },
+  "5c01705761ef424cfa1bdf581b07a529" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e76b414bef73484",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861209157,
+        "stop" : 1592861211417,
+        "duration" : 2260
+      }
+    } ]
+  },
+  "c82d54381e864d0bcaa5fd793cd57c4b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3df962ffa39ca6e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861288581,
+        "stop" : 1592861291014,
+        "duration" : 2433
+      }
+    } ]
+  },
+  "cdc3c550123bd8c38d238c52255435fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "167516ebf22383f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861258827,
+        "stop" : 1592861260992,
+        "duration" : 2165
+      }
+    } ]
+  },
+  "c8a505f4a2bd584295299c65ae95e0c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3badb794a4b0edb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861214227,
+        "stop" : 1592861229416,
+        "duration" : 15189
+      }
+    } ]
+  },
+  "6d52521bb08dc47762df5339aabb066b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b18cb8d717455ea1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861268040,
+        "stop" : 1592861270205,
+        "duration" : 2165
+      }
+    } ]
+  },
+  "5942102db34d65ec9739d296dde89458" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23b397acfb0f0ef7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861206670,
+        "stop" : 1592861209113,
+        "duration" : 2443
+      }
+    } ]
+  },
+  "fbcc81a7ee4f783d9dc7f4227ea16f32" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f11d2f161bcc302d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861281758,
+        "stop" : 1592861283970,
+        "duration" : 2212
+      }
+    } ]
+  },
+  "8b980fe00ae5ad82d4f03cd84493d7e1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad1006c631f29ed2",
+      "status" : "failed",
+      "statusDetails" : "expected [Thank you! If you need help in these difficult times, contact Lifeline 0861 322��322 or National Mental Health Information Line at 0800 567��567.] but found [Thank you! If you need help in these difficult times, contact Lifeline 0861 322 322 or National Mental Health Information Line at 0800 567 567.]",
+      "time" : {
+        "start" : 1592861298095,
+        "stop" : 1592861298484,
+        "duration" : 389
+      }
+    } ]
+  },
+  "b60565460bd2f1a2ebf66c933ea7103d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42268b38137a9261",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861231956,
+        "stop" : 1592861234200,
+        "duration" : 2244
+      }
+    } ]
+  },
+  "128144e9732d7928285302ae8abb031e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "729db5b7ce11449",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861260994,
+        "stop" : 1592861263438,
+        "duration" : 2444
+      }
+    } ]
+  },
+  "20a88daba847eda7c2c2739e4445af7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a2335a2435e0acb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861246773,
+        "stop" : 1592861248948,
+        "duration" : 2175
+      }
+    } ]
+  },
+  "626e3af847013bea287f0b45912a0d14" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2fedaec455cd0bf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861248950,
+        "stop" : 1592861251448,
+        "duration" : 2498
+      }
+    } ]
+  },
+  "85f0ae93a4525b29388de0a465bfe009" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d3b3fe65cb87cb0",
+      "status" : "failed",
+      "statusDetails" : "expected [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply ���MORE���] but found [It will not cost you anything. To join the study reply \"JOIN\". To leave the study at anytime, reply \"STOP\". For more information, reply “MORE”]",
+      "time" : {
+        "start" : 1592861213848,
+        "stop" : 1592861214225,
+        "duration" : 377
+      }
+    } ]
+  },
+  "23294a898d00512e5897af50ffb9ae1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a758c2a66d80b8ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861270208,
+        "stop" : 1592861272567,
+        "duration" : 2359
+      }
+    } ]
+  },
+  "cb2aa4329932fe2a554297255d1ca58" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a02dacbbd47601b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861263453,
+        "stop" : 1592861265630,
+        "duration" : 2177
+      }
+    } ]
+  },
+  "896d9c78ce2f215391134001e7b942c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b26a25ecec3c6d63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861256147,
+        "stop" : 1592861258432,
+        "duration" : 2285
+      }
+    } ]
+  },
+  "93b6685d0a2655f3d0531669020e9597" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52888d57a02c56c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861200394,
+        "stop" : 1592861203870,
+        "duration" : 3476
+      }
+    } ]
+  },
+  "6a0436f4bcd3f7d6cc697160c606cbab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de7076cc4c8ea046",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861253627,
+        "stop" : 1592861256145,
+        "duration" : 2518
+      }
+    } ]
+  },
+  "d622f60d677ad9ca4a086c00797cb1fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9bb2c171bd08cc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861283973,
+        "stop" : 1592861286405,
+        "duration" : 2432
+      }
+    } ]
+  },
+  "fdb55abafcd66a6b7e91b6d301f408f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "389a00c38d2ad68f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861293564,
+        "stop" : 1592861295926,
+        "duration" : 2362
+      }
+    } ]
+  },
+  "3cda70410004cdf483b9caedc7f0e953" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5298d3c092dc0397",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861265632,
+        "stop" : 1592861268038,
+        "duration" : 2406
+      }
+    } ]
+  },
+  "c69ae4dc1e40d0d4e1df4154d64f2efd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83e712aa74b23730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861211433,
+        "stop" : 1592861213844,
+        "duration" : 2411
+      }
+    } ]
+  },
+  "bf8abcfa9aacd4c7897a84a67c793ff5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "befb89d75beda7d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592861196323,
+        "stop" : 1592861200243,
+        "duration" : 3920
+      }
+    } ]
+  }
+}
