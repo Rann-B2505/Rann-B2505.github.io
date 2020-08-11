@@ -1,420 +1,130 @@
 [ {
-  "uid" : "1e76b414bef73484",
-  "name" : "StartFlow",
+  "uid" : "fd1cb7e6b03a2c0f",
+  "name" : "EDDmonth",
   "time" : {
-    "start" : 1592861209157,
-    "stop" : 1592861211417,
-    "duration" : 2260
+    "start" : 1597135807472,
+    "stop" : 1597135808374,
+    "duration" : 902
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "167516ebf22383f3",
-  "name" : "SendMessage_4",
+  "uid" : "ef7f4b007890ee6",
+  "name" : "SAID",
   "time" : {
-    "start" : 1592861258827,
-    "stop" : 1592861260992,
-    "duration" : 2165
+    "start" : 1597135809881,
+    "stop" : 1597135810869,
+    "duration" : 988
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "de7076cc4c8ea046",
-  "name" : "ReceiveMessage4",
+  "uid" : "d5e67ce18f667133",
+  "name" : "MessageType",
   "time" : {
-    "start" : 1592861253627,
-    "stop" : 1592861256145,
-    "duration" : 2518
+    "start" : 1597135806719,
+    "stop" : 1597135807470,
+    "duration" : 751
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6d3b3fe65cb87cb0",
-  "name" : "ReceiveMessage2",
+  "uid" : "eef052297494b8ab",
+  "name" : "Language",
   "time" : {
-    "start" : 1592861213848,
-    "stop" : 1592861214225,
-    "duration" : 377
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "5298d3c092dc0397",
-  "name" : "ReceiveMessage7",
-  "time" : {
-    "start" : 1592861265632,
-    "stop" : 1592861268038,
-    "duration" : 2406
+    "start" : 1597135810872,
+    "stop" : 1597135816725,
+    "duration" : 5853
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b8b7f36c74e309df",
-  "name" : "ReceiveMessage2",
+  "uid" : "de75fe50fd95af9b",
+  "name" : "EDDday",
   "time" : {
-    "start" : 1592861203880,
-    "stop" : 1592861204362,
-    "duration" : 482
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "42268b38137a9261",
-  "name" : "StartFlow",
-  "time" : {
-    "start" : 1592861231956,
-    "stop" : 1592861234200,
-    "duration" : 2244
+    "start" : 1597135808377,
+    "stop" : 1597135809130,
+    "duration" : 753
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "846cade336cdd5c5",
-  "name" : "ReceiveMessage3",
+  "uid" : "735ca70d0c058575",
+  "name" : "Dial",
   "time" : {
-    "start" : 1592861239113,
-    "stop" : 1592861241475,
-    "duration" : 2362
+    "start" : 1597135798648,
+    "stop" : 1597135801225,
+    "duration" : 2577
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a64f430ff2fe0b83",
-  "name" : "ReceiveMessage3",
+  "uid" : "8e13e502d55ed9a9",
+  "name" : "ConsentMessages",
   "time" : {
-    "start" : 1592861229420,
-    "stop" : 1592861231908,
-    "duration" : 2488
+    "start" : 1597135803694,
+    "stop" : 1597135804558,
+    "duration" : 864
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "389a00c38d2ad68f",
-  "name" : "ReceiveMessage13",
+  "uid" : "944e21b1e712e821",
+  "name" : "ConsentResearch",
   "time" : {
-    "start" : 1592861293564,
-    "stop" : 1592861295926,
-    "duration" : 2362
+    "start" : 1597135804561,
+    "stop" : 1597135805394,
+    "duration" : 833
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b18cb8d717455ea1",
-  "name" : "SendMessage_6",
+  "uid" : "a70b53508a03e592",
+  "name" : "ClinicCode",
   "time" : {
-    "start" : 1592861268040,
-    "stop" : 1592861270205,
-    "duration" : 2165
+    "start" : 1597135805396,
+    "stop" : 1597135806715,
+    "duration" : 1319
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "83e712aa74b23730",
-  "name" : "ReceiveMessage1",
+  "uid" : "4f3336b17f07d7ca",
+  "name" : "IdentificationType",
   "time" : {
-    "start" : 1592861211433,
-    "stop" : 1592861213844,
-    "duration" : 2411
+    "start" : 1597135809133,
+    "stop" : 1597135809878,
+    "duration" : 745
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f57028b0d9650a8c",
-  "name" : "SendMessage_1",
+  "uid" : "d38b0fb66dd14df0",
+  "name" : "ConfirmMsisdn",
   "time" : {
-    "start" : 1592861236939,
-    "stop" : 1592861239111,
-    "duration" : 2172
+    "start" : 1597135801336,
+    "stop" : 1597135802343,
+    "duration" : 1007
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d0a098d49e4494a4",
-  "name" : "ReceiveMessage1",
+  "uid" : "f8eb34a97f5b2732",
+  "name" : "IsMotherAtClinic",
   "time" : {
-    "start" : 1592861234202,
-    "stop" : 1592861236555,
-    "duration" : 2353
+    "start" : 1597135802356,
+    "stop" : 1597135803692,
+    "duration" : 1336
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a02dacbbd47601b7",
-  "name" : "SendMessage_5",
+  "uid" : "9d664a4f3ea66f0a",
+  "name" : "validateRapidProContact",
   "time" : {
-    "start" : 1592861263453,
-    "stop" : 1592861265630,
-    "duration" : 2177
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b26a25ecec3c6d63",
-  "name" : "SendMessage_3",
-  "time" : {
-    "start" : 1592861256147,
-    "stop" : 1592861258432,
-    "duration" : 2285
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2a2335a2435e0acb",
-  "name" : "SendMessage_1",
-  "time" : {
-    "start" : 1592861246773,
-    "stop" : 1592861248948,
-    "duration" : 2175
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b6efe487c01d31ee",
-  "name" : "SendMessage_11",
-  "time" : {
-    "start" : 1592861291018,
-    "stop" : 1592861293562,
-    "duration" : 2544
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d243f42c7b6a63a3",
-  "name" : "StartFlow",
-  "time" : {
-    "start" : 1592861241485,
-    "stop" : 1592861243935,
-    "duration" : 2450
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2fb2356dc479b98e",
-  "name" : "ReceiveMessage9",
-  "time" : {
-    "start" : 1592861274748,
-    "stop" : 1592861277182,
-    "duration" : 2434
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b987270ef7a2f5fe",
-  "name" : "ReceiveMessage10",
-  "time" : {
-    "start" : 1592861279355,
-    "stop" : 1592861281756,
-    "duration" : 2401
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "29f22b6568dfeebd",
-  "name" : "SendMessage_10",
-  "time" : {
-    "start" : 1592861286408,
-    "stop" : 1592861288579,
-    "duration" : 2171
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "23b397acfb0f0ef7",
-  "name" : "ReceiveMessage3",
-  "time" : {
-    "start" : 1592861206670,
-    "stop" : 1592861209113,
-    "duration" : 2443
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3badb794a4b0edb2",
-  "name" : "SendMessage_1",
-  "time" : {
-    "start" : 1592861214227,
-    "stop" : 1592861229416,
-    "duration" : 15189
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a34d88dcfe2a5d80",
-  "name" : "ReceiveMessage2",
-  "time" : {
-    "start" : 1592861246342,
-    "stop" : 1592861246771,
-    "duration" : 429
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "3df962ffa39ca6e0",
-  "name" : "ReceiveMessage12",
-  "time" : {
-    "start" : 1592861288581,
-    "stop" : 1592861291014,
-    "duration" : 2433
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2e4bcca28dc0eade",
-  "name" : "SendMessage_2",
-  "time" : {
-    "start" : 1592861251453,
-    "stop" : 1592861253624,
-    "duration" : 2171
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "729db5b7ce11449",
-  "name" : "ReceiveMessage6",
-  "time" : {
-    "start" : 1592861260994,
-    "stop" : 1592861263438,
-    "duration" : 2444
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7aeeb98c8ef82d9d",
-  "name" : "SendMessage_8",
-  "time" : {
-    "start" : 1592861277185,
-    "stop" : 1592861279354,
-    "duration" : 2169
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f11d2f161bcc302d",
-  "name" : "SendMessage_9",
-  "time" : {
-    "start" : 1592861281758,
-    "stop" : 1592861283970,
-    "duration" : 2212
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b9bb2c171bd08cc8",
-  "name" : "ReceiveMessage11",
-  "time" : {
-    "start" : 1592861283973,
-    "stop" : 1592861286405,
-    "duration" : 2432
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "80201b458e162b7a",
-  "name" : "SendMessage_7",
-  "time" : {
-    "start" : 1592861272570,
-    "stop" : 1592861274738,
-    "duration" : 2168
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ad1006c631f29ed2",
-  "name" : "ReceiveMessage14",
-  "time" : {
-    "start" : 1592861298095,
-    "stop" : 1592861298484,
-    "duration" : 389
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "1ce44a8a4c9ee625",
-  "name" : "SendMessage_1",
-  "time" : {
-    "start" : 1592861204400,
-    "stop" : 1592861206666,
-    "duration" : 2266
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "52888d57a02c56c7",
-  "name" : "ReceiveMessage1",
-  "time" : {
-    "start" : 1592861200394,
-    "stop" : 1592861203870,
-    "duration" : 3476
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a758c2a66d80b8ab",
-  "name" : "ReceiveMessage8",
-  "time" : {
-    "start" : 1592861270208,
-    "stop" : 1592861272567,
-    "duration" : 2359
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2fedaec455cd0bf1",
-  "name" : "ReceiveMessage3",
-  "time" : {
-    "start" : 1592861248950,
-    "stop" : 1592861251448,
-    "duration" : 2498
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "befb89d75beda7d4",
-  "name" : "StartFlow",
-  "time" : {
-    "start" : 1592861196323,
-    "stop" : 1592861200243,
-    "duration" : 3920
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e2cb5eea88df7a86",
-  "name" : "ReceiveMessage2",
-  "time" : {
-    "start" : 1592861236559,
-    "stop" : 1592861236937,
-    "duration" : 378
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "af9d28c3d0d2a5cb",
-  "name" : "SendMessage_12",
-  "time" : {
-    "start" : 1592861295928,
-    "stop" : 1592861298091,
-    "duration" : 2163
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2b8e83c9f3c9e089",
-  "name" : "ReceiveMessage5",
-  "time" : {
-    "start" : 1592861258435,
-    "stop" : 1592861258825,
-    "duration" : 390
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "7bcff1dcdcd95a25",
-  "name" : "ReceiveMessage1",
-  "time" : {
-    "start" : 1592861243967,
-    "stop" : 1592861246340,
-    "duration" : 2373
+    "start" : 1597135816727,
+    "stop" : 1597135818029,
+    "duration" : 1302
   },
   "status" : "passed",
   "severity" : "normal"
